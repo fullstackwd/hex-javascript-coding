@@ -1,0 +1,1 @@
+This is the javascript advanced project located in the Holberton web front end repository.
