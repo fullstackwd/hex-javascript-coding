@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "author": "ulchur jhos",
+      "title": "la mejor\n",
+      "id": 1
+    },
+    {
+      "author": "didier revelo",
+      "title": "el mejor",
+      "id": 2
+    },
+    {
+      "author": "asknmdlakdsn",
+      "title": "ñaskdfjñaosihdf\n",
+      "id": 3
+    },
+    {
+      "author": "jdjdjdj",
+      "title": "jajajaja\n",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
